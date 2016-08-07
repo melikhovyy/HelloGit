@@ -9,3 +9,4 @@ How are you?
 
 I am fine! How about you?
 
+I am great but wonder how are you, my friend!
